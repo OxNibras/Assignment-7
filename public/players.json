@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Lionel Messi",
+    "country": "Argentina",
+    "position": "Right Wing",
+    "foot": "Left",
+    "price": 950000,
+    "img": "https://geofootballguessr.com/footballers/messi.webp"
+  },
+  {
+    "id": 2,
+    "name": "Cristiano Ronaldo",
+    "country": "Portugal",
+    "position": "Striker",
+    "foot": "Right",
+    "price": 900000,
+    "img": "https://geofootballguessr.com/footballers/ronaldo.webp"
+  },
+  {
+    "id": 3,
+    "name": "Neymar Jr",
+    "country": "Brazil",
+    "position": "Left Wing",
+    "foot": "Right",
+    "price": 850000,
+    "img": "https://geofootballguessr.com/footballers/neymar.webp"
+  },
+  {
+    "id": 4,
+    "name": "Kylian Mbappe",
+    "country": "France",
+    "position": "Striker",
+    "foot": "Right",
+    "price": 980000,
+    "img": "https://geofootballguessr.com/footballers/mbappe.webp"
+  },
+  {
+    "id": 5,
+    "name": "Erling Haaland",
+    "country": "Norway",
+    "position": "Striker",
+    "foot": "Left",
+    "price": 970000,
+    "img": "https://geofootballguessr.com/footballers/haaland.webp"
+  },
+  {
+    "id": 6,
+    "name": "Mohamed Salah",
+    "country": "Egypt",
+    "position": "Right Wing",
+    "foot": "Left",
+    "price": 880000,
+    "img": "https://geofootballguessr.com/footballers/salah.webp"
+  },
+  {
+    "id": 7,
+    "name": "Luka Modric",
+    "country": "Croatia",
+    "position": "Central Midfielder",
+    "foot": "Right",
+    "price": 650000,
+    "img": "https://geofootballguessr.com/footballers/modric.webp"
+  },
+  {
+    "id": 8,
+    "name": "Kevin De Bruyne",
+    "country": "Belgium",
+    "position": "Atk Midfielder",
+    "foot": "Right",
+    "price": 820000,
+    "img": "https://geofootballguessr.com/footballers/de-bruyne.webp"
+  },
+  {
+    "id": 9,
+    "name": "Vinicius Junior",
+    "country": "Brazil",
+    "position": "Left Wing",
+    "foot": "Right",
+    "price": 930000,
+    "img": "https://geofootballguessr.com/footballers/vinicius.webp"
+  },
+  {
+    "id": 10,
+    "name": "Jude Bellingham",
+    "country": "England",
+    "position": "Central Midfielder",
+    "foot": "Right",
+    "price": 940000,
+    "img": "https://geofootballguessr.com/footballers/bellingham.webp"
+  },
+  {
+    "id": 11,
+    "name": "Harry Kane",
+    "country": "England",
+    "position": "Striker",
+    "foot": "Right",
+    "price": 870000,
+    "img": "https://geofootballguessr.com/footballers/kane.webp"
+  },
+  {
+    "id": 12,
+    "name": "Son Heung-min",
+    "country": "South Korea",
+    "position": "Left Wing",
+    "foot": "Both",
+    "price": 790000,
+    "img": "https://geofootballguessr.com/footballers/son.webp"
+  },
+  {
+    "id": 13,
+    "name": "Robert Lewandowski",
+    "country": "Poland",
+    "position": "Striker",
+    "foot": "Right",
+    "price": 760000,
+    "img": "https://geofootballguessr.com/footballers/lewandowski.webp"
+  },
+  {
+    "id": 14,
+    "name": "Virgil van Dijk",
+    "country": "Netherlands",
+    "position": "Centre Back",
+    "foot": "Right",
+    "price": 720000,
+    "img": "https://geofootballguessr.com/footballers/van-dijk.webp"
+  },
+  {
+    "id": 15,
+    "name": "Achraf Hakimi",
+    "country": "Morocco",
+    "position": "Right Back",
+    "foot": "Right",
+    "price": 760000,
+    "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Achraf_Hakimi_2024.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Lamine Yamal",
+    "country": "Spain",
+    "position": "Right Wing",
+    "foot": "Left",
+    "price": 930000,
+    "img": "https://geofootballguessr.com/footballers/lamine-yamal.webp"
+  }
+]
