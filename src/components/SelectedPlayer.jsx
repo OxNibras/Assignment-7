@@ -1,5 +1,5 @@
 import { Trash } from 'lucide-react';
-const SelectedPlayer = ({player}) => {
+const SelectedPlayer = ({player,handleDelete}) => {
     const {name,img,position} = player
     return (
         <div className="border border-gray-300 p-4 rounded-xl flex justify-between items-center">
@@ -13,7 +13,7 @@ const SelectedPlayer = ({player}) => {
                 </div>
             </div>
             <div>
-                <Trash className='cursor-pointer' color='#F14749'></Trash>
+                <Trash className='cursor-pointer' onClick={()=>handleDelete(player)} color='#F14749'></Trash>
             </div>
         </div>
     );

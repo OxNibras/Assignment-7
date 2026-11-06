@@ -10,7 +10,11 @@ function App() {
   const [selected,setSelected] = useState([])
   const [active,setActive] = useState('available')
 
-
+  const handleDelete = player => {
+    const newSelected = selected.filter(p => p.id !== player.id)
+    toast.success('Player removed Successfully')
+    setSelected(newSelected)
+  }
   const handleClaim = () => {
      setAmount(amount + 1000000)
       setTimeout(() => toast.success('Credit added to your account'),350)
@@ -37,7 +41,7 @@ function App() {
       <Header amount={amount}></Header>
       <main className="w-11/12 mx-auto">
         <Banner handleClaim={handleClaim}></Banner>
-        {active === 'available'? <Players setActive={setActive} handleChoosePlayer={handleChoosePlayer} selected={selected}></Players>:<SelectedPlayers selected={selected} setActive={setActive}></SelectedPlayers>}
+        {active === 'available'? <Players setActive={setActive} handleChoosePlayer={handleChoosePlayer} selected={selected}></Players>:<SelectedPlayers handleDelete={handleDelete} selected={selected} setActive={setActive}></SelectedPlayers>}
       </main>
          
       <ToastContainer  position="top-center" />
